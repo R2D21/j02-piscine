@@ -19,3 +19,4 @@ a.out
 main.c
 my.h
 bin/
+.gitignore
