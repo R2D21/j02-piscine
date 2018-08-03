@@ -18,3 +18,4 @@ Makefile
 a.out
 main.c
 my.h
+bin/
